@@ -1,1 +1,1 @@
-sh 'echo "Deployed"'
+echo "Deployed"
